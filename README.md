@@ -15,9 +15,7 @@ Welcome to our fashion website, where creativity meets functionality! Our platfo
 
 ## Introduction
 
-Welcome to [YUMMY], a cutting-edge web application designed to revolutionize the way you order and enjoy your favorite meals.
-In a world where convenience is key, our platform provides a seamless and user-friendly experience for food enthusiasts to explore, 
-customize, and order meals from the comfort of their homes.
+Welcome to [fashion], Discover a carefully curated selection of high-quality products that blend aesthetics with functionality. Our range encompasses everything from stylish home decor to cutting-edge gadgets, all sourced from reputable manufacturers and artisans. Each product is chosen with a keen eye for quality, ensuring a seamless blend of form and utility.
 
 
 ## Features
